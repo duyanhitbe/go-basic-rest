@@ -1,0 +1,8 @@
+POST http://localhost:8080/events
+content-type: application/json
+
+{
+    "title": "Sự kiện họp báo",
+    "description": "Sự kiện lớn của năm",
+    "location": "Hồ Chí Minh"
+}

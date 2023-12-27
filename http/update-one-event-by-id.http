@@ -1,0 +1,6 @@
+PUT http://localhost:8080/events/1
+content-type: application/json
+
+{
+    "title": "Sự kiện họp báo"
+}
